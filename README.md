@@ -56,11 +56,6 @@ Developed an interactive Power BI dashboard to analyze financial performance acr
 
 ---
 
-## 📊 Dashboard  
-> Add Power BI dashboard screenshots here  
-
----
-
 ## 🚀 Recommendations  
 - Optimize pricing for **high-revenue but low-margin products**  
 - Focus on **Enterprise & Government segments**  
